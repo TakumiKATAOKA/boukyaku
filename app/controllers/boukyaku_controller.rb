@@ -1,0 +1,2 @@
+class BoukyakuController < ApplicationController
+end
